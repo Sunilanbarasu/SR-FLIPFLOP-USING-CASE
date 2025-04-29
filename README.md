@@ -81,3 +81,4 @@ endmodule
 ![de srf](https://github.com/user-attachments/assets/c4600151-a1e9-4cee-9758-b5b2a6882a6c)
 
 **RESULTS**
+SR flipflop using verilog and validating their functionality using their functional tables are verified.
